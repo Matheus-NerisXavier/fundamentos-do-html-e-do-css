@@ -1,3 +1,4 @@
+Caminhos absolutos
 
 - URL
 - Uniform Resource Locator

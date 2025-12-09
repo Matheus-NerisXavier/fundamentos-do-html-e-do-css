@@ -1,3 +1,4 @@
+Atributos globais
 
 Elementos comuns a todos os elementos HTML.
 

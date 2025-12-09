@@ -1,3 +1,4 @@
+Formataçào básica de textos
 
 - Strong (importância)
 - em (enfase)

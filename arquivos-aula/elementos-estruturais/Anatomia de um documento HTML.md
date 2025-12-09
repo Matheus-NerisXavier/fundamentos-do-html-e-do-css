@@ -1,4 +1,4 @@
-
+Anatomia de um documento HTML
 <!DOCTYPE html>
 
 `<html lang="pt-br"> <!-- root -->`

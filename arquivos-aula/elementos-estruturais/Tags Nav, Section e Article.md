@@ -1,3 +1,4 @@
+Tags Nav, Section e Article
 
 `<nav>`
 `<section>`
