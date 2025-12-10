@@ -1,3 +1,5 @@
+Especificidade
+
 - Cada seletor tem um peso
 - Soma dos pesos faz a declaração ser aplicada.
 

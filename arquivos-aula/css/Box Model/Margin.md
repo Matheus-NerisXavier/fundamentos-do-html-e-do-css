@@ -1,3 +1,5 @@
+Display Inline
+
 html
 
 `<div class="margin">block</div>`

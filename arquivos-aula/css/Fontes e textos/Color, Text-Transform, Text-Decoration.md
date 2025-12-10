@@ -1,3 +1,5 @@
+Color, Text-Transform, Text-Decoration
+
 p {
 	color: red;
 	text-transforma: capitalize;

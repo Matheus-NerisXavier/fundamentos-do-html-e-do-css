@@ -1,3 +1,4 @@
+Display Inline
 
 1. Ocupa apenas o espaço do conteúdo do elemento.
 2. Elementos poderão ficar em linha.
